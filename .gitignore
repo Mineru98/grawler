@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+pkg/*
+src/*
+!src/go.mod
+!src/go.sum
